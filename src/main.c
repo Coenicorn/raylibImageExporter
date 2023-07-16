@@ -17,7 +17,7 @@ int main(void)
 #else
     SetTraceLogLevel(LOG_NONE);
 #endif
-
+ 
     InitWindow(500, 500, "Raylib Image as Code Exporter");
     SetTargetFPS(60);
 

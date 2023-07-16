@@ -1,5 +1,3 @@
-# Beat Interval Timer
+# Raylib Image Exporter
 
-Exactly as it says.
-
-Specify beat routines and execute them.
+Export images as code for use with the Raylib library (https://github.com/raysan5/raylib)
