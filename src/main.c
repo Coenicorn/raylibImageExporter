@@ -12,6 +12,7 @@
 
 int main(void)
 {
+    printf("WARNING: when run from the terminal, this program will save images to the working direcory, not to a constant location!\n");
 #ifdef DEBUG
     SetTraceLogLevel(LOG_DEBUG);
 #else
